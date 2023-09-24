@@ -17,4 +17,4 @@ Pascal)) В моём учебном заведении обучение начн
 
 [Скачать](https://github.com/YuraFX/twenty-one/releases/tag/1.0) Windows-версию в релизах.
 
-P.s. - Также можно скачать [.py файл](https://github.com/YuraFX/twenty-one/blob/main/main.py) и запустить игру в приложении Pydroid 3 на телефоне.
+P.s. - Также можно скачать [.py файл](https://github.com/YuraFX/twenty-one/blob/main/Pydroid/main.py) и запустить игру в приложении Pydroid 3 на телефоне.
