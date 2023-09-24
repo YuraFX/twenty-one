@@ -1,6 +1,6 @@
 # Консольная игра “Двадцать одно” на Python.
 
-![1](https://github.com/YuraFX/twenty-one/assets/103532261/65a2debd-e045-4d3a-9673-4ab7a484b8ff)
+![test](https://github.com/YuraFX/twenty-one/assets/103532261/5e37abdb-4666-4167-b66e-b6369c4afb5f)
 
 ## Предисловие:
 
@@ -17,4 +17,4 @@ Pascal)) В моём учебном заведении обучение начн
 
 [Скачать](https://github.com/YuraFX/twenty-one/releases/tag/1.0) Windows-версию в релизах.
 
-P.s. - Также можно скачать [.py файл](https://github.com/YuraFX/twenty-one/blob/main/main.py) и запустить игру в приложении Pydroid 3 на телефоне. 
+P.s. - Также можно скачать [.py файл](https://github.com/YuraFX/twenty-one/blob/main/main.py) и запустить игру в приложении Pydroid 3 на телефоне.
