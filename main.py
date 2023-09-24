@@ -11,19 +11,23 @@
 # You should have received a copy of the GNU General Public License
 # along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
 
+import colorama
+from colorama import Fore, Style
+colorama.init()
+
 import random
 
-print("  __                  __                      ")
+print(Fore.RED + "  __                  __                      ")
 print(" / /__    _____ ___  / /___ __  ___  ___  ___ ")
 print("/ __/ |/|/ / -_) _ \/ __/ // / / _ \/ _ \/ -_)")
 print("\__/|__,__/\__/_//_/\__/\_, /  \___/_//_/\__/ ")
-print("                       /___/                  ")
+print("                       /___/                  " + Style.RESET_ALL)
 
-print("             |-----------------|")
+print(Fore.YELLOW + "             |-----------------|")
 print("             | 1 - Начать игру |")
 print("             | 2 - Об игре     |")
 print("             |-----------------|")
-print("                  Версия 1.0    ")
+print(Fore.RED + "                 Версия 1.0a    " + Fore.YELLOW)
 
 koloda = random.randint(2, 10)
 
